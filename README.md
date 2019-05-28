@@ -8,6 +8,8 @@ make you feel like using telekinesis
 * HC-05 Bluetooth Serial Module
 * GY-50 3-axis Gyroscope Module
 * L298N Motor Driver Module
+* Practicum Boards
+* Gear Motors & Wheels
 ## Member
 - Authapong Somboonwarakon 6010500401
 - Arthit Photong 6010500141
